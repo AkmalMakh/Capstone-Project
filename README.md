@@ -1,10 +1,10 @@
 # Capstone-Project
 
 ## Context
-* [Description](https://github.com/AkmalMakh/Capstone-Project#Description)
-* [Features] (https://github.com/AkmalMakh/Capstone-Project#Features)
-* [Screenshots] (https://github.com/AkmalMakh/Capstone-Project#Screenshots)
-* [Technologies] (https://github.com/AkmalMakh/Capstone-Project#Technologies)
+* [Description](https://github.com/AkmalMakh/Capstone-Project#description)
+* [Features] (https://github.com/AkmalMakh/Capstone-Project#features)
+* [Screenshots] (https://github.com/AkmalMakh/Capstone-Project#screenshots)
+* [Technologies] (https://github.com/AkmalMakh/Capstone-Project#technologies)
 
 
 ## Description
